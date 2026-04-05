@@ -7,4 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Ms. student. My research interest includes  AI in games, interactive narrative, role-playing agents.
+I'm a first year Ms. student. My research interest includes AI in games, interactive narrative, role-playing agents.
+
+## 教育背景
+
+**2024.9 - 2027.6（预计）** &emsp; 山东大学 &emsp; 人工智能（推免 专硕）
+
+主要课程：工程数学，计算机视觉，通用大数据处理技术
+
+**2020.9 - 2024.6** &emsp; 山东大学 &emsp; 软件工程 转入 电子信息类（崇新学堂特色班）
+
+主要课程：EECS导论，信息论，深度学习
+
+---
+
+## 实习经历
+
+**2025.12 - 2026.3** &emsp; 海信集团数质中心AI技术部 &emsp; 算法实习生
+
+直系学长负责的研发组，负责从算法方面改善现有业务。
+
+- 基于 SigLip Loss + LoRA 微调 Meta CLIP 2，增强了基于向量数据库的跨模态检索能力；
+- 负责多模态（人脸、声纹、人体）身份识别和非注册式特征写入与更新的逻辑实现；
+- 调研学术界与开源的记忆系统，基于 memU 改动以适配多人对话场景的信息提取与检索。
+
+**2025.4 - 2025.8** &emsp; 山东灵宇智能科技有限公司 &emsp; LLM开发实习
+
+由人大高瓴几位 PhD 领头的面向陪伴 AI 市场的初创公司。
+
+- 负责带情绪和动作标签的对话数据合成工作流，用于扩展角色交互能力，增强情绪表达；
+- 协助开发对话系统的情感（共情和情绪变化）和长期记忆（总结、提取等方法实现关键信息的存储）模块；
+- 设计模拟用户智能体，探索意图控制和主动对话系统，负责用于后训练的主题对话数据合成工作流。
+
+---
+
+## 项目经历
+
+**2026.1 至今** &emsp; 用户按摩偏好优化智能体 &emsp; 实验室项目
+
+基于 LLM 研发多智能体协作系统，性能指标上仍在与企业方协调进行持续优化。
+
+- 运用 CoT 思维链与 RAG 技术整合传感器数据与用户画像，实现场景感知的个性化按摩决策；
+- 借助相似画像的反馈记录用于新用户的冷启动，构建增量式反馈记忆闭环，通过历史数据持续优化推荐精度。
+
+**2024.12 - 2025.4** &emsp; Explore Branches the Story didn't Narrate: An LLM Solution &emsp; 研究论文
+
+荣获 Wordplay@EMNLP 2025 Spotlight。
+
+为了提高交互式叙事中的沉浸感和自主性，我们提出了 ECHIDNA，一个围绕交互式叙事系统三个核心维度（作者意图、角色自主性和玩家建模）设计的两阶段框架：在生成阶段采用扰动驱动分支来扩展交互空间，并在交互式叙事阶段引入 GM-NPC 架构以实现多智能体的动态响应和状态管理。
