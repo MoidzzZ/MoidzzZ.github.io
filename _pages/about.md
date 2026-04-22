@@ -28,7 +28,7 @@ redirect_from:
 
 **2025.12 - 2026.3** &emsp; 海信集团数质中心AI技术部 &emsp; 算法实习生
 
-早期负责多模态身份识别系统的模型优化和逻辑实现，后期调研学术界与开源的记忆系统，基于 memU 改动以适配多人对话场景的信息提取与检索。
+前期负责特定下游任务上MetaCLIP2模型的LoRA微调和多模态身份识别系统的逻辑实现，后期调研学术界与开源的记忆系统，基于 memU 改动以适配多人对话场景的信息提取与检索。
 
 
 **2025.4 - 2025.8** &emsp; 山东灵宇智能科技有限公司 &emsp; LLM开发实习
@@ -64,6 +64,7 @@ redirect_from:
 1. 2021年全国大学生数学竞赛（非数学专业）预赛一等奖；
 2. 本科任职20级崇新学堂生涯发展委员；
 3. 论文笔记
+- [Agent对话记忆](https://www.yuque.com/yuqueyonghuqt4oby/kxk7pe/lcn424cqnu6fq15n?singleDoc)
 - [游戏AI论文笔记（NPC，交互叙事）](https://www.yuque.com/yuqueyonghuqt4oby/kxk7pe/ipn9ddtsphcn75ne?singleDoc)
 - [角色动画方向论文笔记](https://www.yuque.com/yuqueyonghuqt4oby/kxk7pe/ahm0oh?singleDoc)
 4. 学习项目
