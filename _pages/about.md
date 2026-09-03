@@ -10,7 +10,9 @@ redirect_from:
 
 特长：调研文档&论文，整理研究背景和技术路线。
 
-爱好：竞技游戏，剧情向游戏，动画。
+爱好：射击对抗，剧情向游戏，动画。
+
+知识 & 技能：**AI Coding、RAG、LoRA 模型微调、数据合成管线搭建、Chatbot 设计与开发**
 
 ## 教育背景
 
@@ -25,6 +27,10 @@ redirect_from:
 ---
 
 ## 实习经历
+
+**2026.7 - 2026.9** &emsp; 网易互娱 Eggy 事业部 &emsp; 多模态算法实习生
+
+在系统程序组参与 AI 专项实习，围绕贴图 ASTC 压缩参数推荐与美术瑕疵检测开展工作，基于引擎接口搭建批量压缩、渲染和截图管线并接入多种图像差异评分器搜索最优压缩参数，熟练使用集团内部 **AI 工具实现 Spec-Driven 开发**并将数据分析与结果处理流程**提取为可复用 Skills**，同时以前期管线与标注作为数据源设计**基于 VLM 的瑕疵检测工作流**，通过 CoT、Few-shot 等方式提升检测性能。
 
 **2025.12 - 2026.3** &emsp; 海信集团数质中心AI技术部 &emsp; 算法实习生
 
@@ -43,15 +49,9 @@ redirect_from:
 ---
 
 ## 项目经历
-**2026.3 至今** &emsp; 剧情陪伴AI记忆插件 &emsp; 个人项目
+**2026.1 - 2026.7** &emsp; **TagMem: Adaptive Tag-Structured Memory with Query-Routed Evidence Reasoning for Long-Term LLM Agents** &emsp; 研究论文（一作）
 
-[MoEye](https://github.com/MoidzzZ/MoEye)，持续迭代的个人兴趣项目。
-
-玩家在游戏过程中通过鼠标侧键触发截图，系统自动识别对话内容，并借助 LLM 对剧情进行理解、整理和持久化记忆，最终生成结构化的章节文档和角色档案。
-
-**2026.1 至今** &emsp; 用户按摩偏好优化智能体 &emsp; 实验室项目
-
-基于 LLM 研发多智能体RAG工作流，性能指标上仍在与企业方协调进行持续优化。
+投稿至 AAAI 2027 在审。针对长程交互中抽取维度固定、跨会话证据分散及复杂查询难以充分取证的问题，我们提出了 TagMem 长期记忆框架：以可演化 Tag 指导信息抽取，将带时间的 Statements 关联至原始 Chunks，并按问题证据需求选择 RAG 或受限 ReAct；以较低的额外构建与推理开销在 LoCoMo 上取得了 92.32% 的准确率。
 
 **2024.12 - 2025.4** &emsp; Explore Branches the Story didn't Narrate: An LLM Solution &emsp; 研究论文
 
